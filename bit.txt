@@ -1,0 +1,623 @@
+no pre : Discrete Mathematics , Computer Skills for Scientific
+Faculties , Fundamentals of Information
+Technology , calculus 1 , Accounting -1 , Principles of Microeconomics
+ 
+
+Pass Qualification Exam  : Computer Skills for Scientific
+Faculties
+
+Computer Skills for Scientific
+Faculties  : Object Oriented Programming, Web Applications Development
+
+
+Object Oriented Programming :Data Structures ,Database Management Systems
+,Data mining ,Advanced Java Programming 
+
+
+Data structures : Theory of Algorithms ,Computer Networks ,
+Operating Systems ,Simulation in Business , Special Topics , Software Packages ,
+Multimedia ,Artificial Intelligence
+
+
+Web Applications Development : Web Server Programming ,Advanced web development ,
+Human Computer Interaction
+
+Fundamentals of Information
+Technolog : Management Information Systems  , Computer Ethics ,
+
+
+Advanced web development : e-Business ,e-Learning & Applications ,
+,e-Government 
+
+
+Linear Algebra for Computational
+Sciences : Knowledge Management Systems ,Multimedia ,Data mining 
+
+
+Discrete Mathematics : Statistical Packages  ,Document Analysis & Recognition 
+
+
+
+
+
+Computer Networks : Information Security and Privacy ,Fundamentals of IoT ,
+Advanced computer networks 
+
+
+
+calculus 1 : Linear Algebra for Computational
+Sciences
+
+
+Statistical Packages :Enterprise Resource Planning
+Systems ,Business Intelligence , Total Quality Management ,
+Operations Research 
+
+
+
+
+
+Software Engineering : IT Project Management ,Systems Analysis and Design , Total Quality Management
+ 
+
+Theory of Algorithms : Document Analysis & Recognition 
+
+
+Management Information Systems : Information Resource
+Management 
+
+Business Intelligence  :Semantic Web , Information Retrieval
+
+Information Security and Privacy :  Security Risk Management and
+Ethics 
+
+
+Operating Systems : Enterprise Application
+Development 
+
+
+Database Management Systems  :Software Engineering ,Information Security and Privacy,
+
+Database Languages & Tools ,Data mining
+
+
+project 1 pass 90 hours : project 2
+
+
+
+-------------------------------------------------------------------------------------------
+
+
+
+
+
+Discrete Mathematics : This course studies the mathematical elements of computer science and their applications. Topics
+include propositional logic; predicate logic; mathematical reasoning; techniques of proof;
+mathematical induction; set theory; number theory; matrices; sequences and summations; functions,
+relations and their properties, elementary graph theory, and tree (graph theory). In each subject, its
+characteristics, forms, ways of representing it, the operations used in it, and ways of linking these
+subjects together are studied. Homework will be assigned.
+
+
+
+Computer Skills for Scientific Faculties : This course studies the fundamental concepts of programming using C++. Topics includes: basic
+structures of programming tools, like: variable names, data types, input and output statements, and
+output formatting. Files. Selection statements structures. Repetition statements structures.
+Functions. Enumeration datatype and strings data type. Arrays; 1D and 2D. The lectures will be
+provided in the lab through active teaching methodologies individually or within groups.
+
+
+Fundamentals of Information Technology : 
+This course will introduce the fundamental knowledge of information technologies, and it works as
+an introductory course for computer-related courses. It is a combination between a theoretical and
+a practical course. In particular, the course provides students with a grounding knowledge on several
+areas of information technologies including cutting edge technologies, careers in IT, basic concepts
+of cloud computing and web technologies, and a general perceptive of project management.
+Students are also going to be introduced practically to hardware maintenance, software diagnostics
+and technical support. In addition, critical thinking methodologies and techniques will be discussed,
+including numbering systems, flowcharts and related case studies. Operating systems such as
+LINUX/UNIX with, memory allocation, and an introduction to networks and security, and block
+chain concepts. The final part is concerned with technical applications needed such as excel,
+advanced excel, technical writing, report generating and type writing. Technical sections will be
+taught on lab sessions and group works. Active learning methodologies will be applied through role
+playing, presentations and problem solving exercises.
+
+
+Web Applications Development :This course aims to improve students’ ability in Front-End Web applications development using
+client-side programming such as HTML 5, Cascading Style Sheet (CSS3), JavaScript. In addition,
+the students will learn the fundamental concepts of front-end web development frameworks such
+as Bootstrap and React front-end frameworks. The course will cover the Bootstrap framework,
+which is the most popular CSS framework for creating responsive mobile-first websites. This
+course will teach you how to create pages of a website using the Bootstrap v5 framework. In
+addition, the course also covers the basic concepts of the React framework such as
+Communicating with Props, Class-Based Components, State in React Components, Lifecycle
+Methods, Handling User Input with Forms and Events, Making API Requests with React, and
+Single Page Application Development. This course uses active teaching methodologies, such as
+weekly lab applied sessions, group work and technical projects.
+
+
+Object Oriented Programming :The course aims to cover the fundamental concepts of OOP, such as Encapsulation and InformationHiding, Inheritance, Polymorphism, and Abstraction. The course uses Java Programming language
+starting from the basic Java syntax based on Eclipse IDE. It focuses on the understanding and
+practical mastery of OOP principles and Java components, such as classes, objects, input/output,
+scanner objects (to read either from the keyboard or a file), loops, decision-making, array and
+multidimensional array, data abstraction, methods, method overloading, objects garbage-collector,
+an introduction to exception-handling, etc. Finally, it presents an introduction to JavaFX and its
+hierarchy based on Java inheritance OOP concepts, for developing rich client applications. Lectures
+will be given in the lab for practical application. This course is assessed through exams, practical
+tests and assignments.
+
+
+Data Structures :This Course introduces the students to the concepts of data structures. Topics include: Pointers,
+and pointer operations. Array implementation of lists, stacks, and queues. Dynamic
+implementation of lists (singly, doubly, circular), stack operations and queue operations (and their
+implementation as linked lists). STL, like: vectors, pairs, maps, sets, lists, stacks, queue.
+Recursion. Tree dynamic, like binary search trees, segment, red-black, AVL trees. Hash Table and
+Collision resolution. Weekly lab assignments will be given to the students and to be discussed
+through active teaching methodologies, in addition to problem solving tasks.
+
+
+Database Management Systems :The course aims to provide students with an overview of database management system architecture
+and environment, an understanding of the basic database design and implementation techniques,
+and a practical experience of designing and building relational databases. Furthermore, it enables
+applying conceptual design methodologies for databases and learning about the architecture and
+environments of the database management system. Students will practice using database tools to
+create and manage database schemas systems and formulate DDL, DML commands and run SQL
+queries. Advanced SQL topics such as creating database functions, database Stored Procedures and
+database Triggers will be covered. Also, students will learn how to manage database privileges and
+design suitable security and integrity constraints for database schemas. Furthermore, the course will
+provide the students with practice project to connect a relational DB using a programming language,
+in addition to practice using basic Oracle Forms and Oracle Reports. This course will use a
+combination of traditional lectures, active teaching methodologies, and hands-on lab lectures.
+
+Linear Algebra for Computational Sciences :The course uses linear algebra as one of the most important tools in applied mathematics, data
+science, and artificial intelligence to help students learn how to handle vectors and matrices, solve
+matrix-vector equations, perform Eigen value and Eigen vector and diagonalization analyses and
+use principal component analysis to do dimension reduction on real-world datasets. It covers topics
+such as: solving systems of linear equations; matrices and matrix operations; homogeneous and nonhomogeneous systems; Gaussian elimination; elementary matrices and a method for finding A−1;
+determinants; Euclidean vector spaces; linear transformations from Rn to Rm and their properties;
+general vector spaces; subspaces; basis; dimension; row space; column space; null space of a matrix;
+rank and nullity; and inner product spaces. All analysis will be performed in python or any similar
+popular programming language. Lectures will be given in the lab for practical application. This
+course is assessed through exams, practical tests and assignments.
+
+
+Calculus-1 : Functions: domain, operations on functions, graphs of functions; trigonometric functions; limits:
+meaning of a limit, computational techniques, limits at infinity, infinite limits; continuity; limits and
+continuity of trigonometric functions; the derivative: techniques of differentiation, derivatives of
+trigonometric functions; the chain rule; implicit differentiation; differentials; Roll’s Theorem; the
+mean value theorem; the extended mean value theorem; L’Hopital’s rule; increasing and decreasing
+functions; concavity; maximum and minimum values of a function; graphs of functions including
+rational functions (asymptotes) and functions with vertical tangents (cusps); antiderivatives; the
+indefinite integral; the definite integral; the fundamental theorem of calculus ; the area under a
+curve; the area between two curves; transcendental functions: inverse functions, logarithmic and
+exponential functions; derivatives and integrals; limits (the indeterminate forms); hyperbolic
+functions and their inverses; inverse trigonometric functions.
+
+
+
+IT Project Management :Students are expected to explore the processes, procedures, tools and techniques and results to create
+and execute an integrated project plan; it also expected to create project charter, determine
+requirements, defining creating and managing the project scope, and validating the deliverables. IT
+project managers are responsible for planning, organizing, allocating resources, budgeting and
+successfully executing organizations’ specific IT goals. This course uses active teaching
+methodologies, such as weekly lab applied sessions, group work and technical projects. In addition,
+speakers from the industry will be invited to discuss case studies and show the latest trends on the
+industry
+
+
+Mobile Programming :Mobile computing course aims at introducing the main concepts of programming mobile
+applications including the mobile development environment, user interfaces, activities, intents,
+content providers’ / content resolvers, services, broadcast receivers, persistence, MBaaS, location,
+sensors, graphics, and other mobile development features, tools, and capabilities. This covers
+concepts from Android, Swift, among others. This course uses active teaching methodologies, such
+as weekly lab applied sessions, group work and technical projects. In addition, speakers from the
+industry will be invited to discuss case studies and show the latest trends on the industry
+
+
+
+Theory of Algorithms : This is the first course in algorithms. The main goal is to introduce complexity analysis of algorithms
+with an emphasis on efficient design techniques for solving various computational problems. Topics
+include complexity analysis including big O, big omega, and big theta notations. Recurrence
+equations and recursive algorithms. Algorithm design techniques include sequential, divide-andconquer, greedy, and dynamic programming. Sorting algorithms include insertion sort, merge sort,
+heap sort, and quicksort. Searching algorithms include breadth-first search and depth-first search.
+Graph-based algorithms including Kruskal’s algorithm. Optimization problems include minimum
+spanning tree and multistage graph problems. Implementation of several algorithms. The assessment
+of this course is through exams, quizzes, and assignments.
+
+Computer Networks : This course explores key concepts and essential technologies of computer networks and broad
+range of topics in networking. It includes general overview, networks applications, network
+classifications and topologies, network layers, channel performance measures, transmission
+media, communication network protocols and architecture; Data link layer: framing, error
+detection and correction, CSMA/CD, LAN IEEE standards; Network layer: IP service model, IP
+addressing, subnetting, host configuration DHCP, ARP Protocol, ICMP protocol; Transport layer:
+UDP protocol, TCP protocol, TCP reliable transfer and sliding window, TCP flow and congestion
+control; Application layer: DNS protocol, NAT protocol, HTTP protocol, persistent and nonpersistent HTTP connection. Weekly practice in the lab through active teaching methodologies
+
+
+
+Operating Systems :This course introduces students to management of computer resources. It includes: definition and
+role of the operating systems, history of operating systems and development, functionality and
+structuring methods of a typical operating system; concepts of process versus thread, scheduling,
+dispatching and context switching, concurrent execution: the "mutual exclusion" problem and
+some solutions; deadlocks: causes, conditions, and methods for resolution; memory management;
+virtual memory management; mass-storage structure. The course will involve regular assignments
+and instructions on Linux Operating System to map different theoretical parts with Linux
+
+
+Software Engineering : This course aims is to present software engineering as a body of knowledge. The course is designed
+to present software engineering concepts and principles in parallel with the Software Development
+Life Cycle (SDLC). The course will begin with an introduction to software engineering, giving
+students a definition of this body of knowledge, as well as a discussion of the main methodologies
+of software engineering including agile methods i.e., XP. Students will then learn about the five
+major phases of the SDLC: requirements gathering and analysis, design, coding/implementation,
+validation, and evolution. This includes software modelling using Unified Modelling Language
+(UML), a standardized general-purpose modelling language used to create visual models of objectoriented software, for requirements gathering and analysis, and design. Students will also learn
+about project management and quality management for the purpose of delivering high-quality
+software that satisfies customer needs and is within budget and schedule. Delivery will be by inclass lectures, recorded lectures, practical sessions in the lab, case studies from different domains
+(i.e., healthcare domain), and assignments. Assignments will include a term project illustrative of
+professional practice in developing computer information systems. One or two guest speakers with
+many years of experience in software engineering will be invited to share their first-hand experience
+with students. 
+
+
+
+Systems Analysis and Design :
+This course aims to provide students with a solid background in information systems analysis and
+design techniques through a combination of theory and practice. Students will be provided with the
+skills that are necessary for the analysis and design of information systems, and will apply these
+skills in a step-by-step manner leading from the recognition of a problem to the implementation of
+a solution on a case study. The course is divided into four major parts: Systems Analysis
+Fundamentals (Part I), Information Requirements Analysis (Part II), The Analysis Process (Part III),
+The Essentials of Design (Part IV). Delivery will combine traditional lectures with other active
+teaching methodologies, such as group discussions, group solving problems, analysis of cases and
+debates, case study from healthcare domain, and assignments. Assignments will include a term
+project illustrative of professional practice in computer information systems analysis and design.
+
+
+Management Information Systems : This course aims at introducing the concepts of management information system and its resources.
+This course works as a road map for system management courses. The course covers fundamental
+concepts of MIS; by elaborating on the impact of IT on several sectors including: industry, strategy
+and finance. In industry, Porter’s five forces models are studied and how they are used to gain
+competitive advantages. On the other hand, in strategy, RGT framework is discussed in addition to
+Porter’s strategies. Breakeven point is studied as a part of the impact of IT in finance. The major
+business initiatives are covered including: Supply Chain Management (SCM), Customer
+Relationship Management (CRM), Enterprise Resource Planning (ERP) and Social Media (SM).
+OLTP and OLAP information processing tools which support business intelligence (BI) are also
+discussed. IT tools which are used to support OLTP are database and Database Management System
+DBMS. On the other hand, IT tools which are used to support OLAP are data warehouse and data
+mining tools. Decision Support Systems (DSS) and Expert Systems (ES) are discussed in terms of
+concept and usage. E-commerce models, marketing mix, and how to move money easily and
+securely are investigated through the course.
+
+
+Web Server Programming : Course Description
+This course is intended to teach students the skills and techniques required to create fully
+functioning websites. Students will learn how to configure Internet services, design and publish
+dynamic and interactive web pages, implement both client and server-side scripting, and use data
+access technologies to manipulate databases.
+Specifically, students are introduced to the Visual Web Developer, and how to use it to design,
+build, configure server side websites built using ASP.Net. In addition, the VWD is used to introduce
+building DB-based web applications, and introduce the concepts of client state management and
+web services. This course uses active teaching methodologies, such as weekly lab applied sessions,
+group work and technical projects. In addition, speakers from the industry will be invited to discuss
+case studies and show the latest trends on the industry
+
+
+
+Statistical Packages : Course Description
+This course aims at introducing the main statistical and probabilistic concepts for scientific applicat
+ions. In addition, the course introduces different application fields of those concepts in the business
+intelligence and decision support systems. The course graphically introduces those concepts utilizi
+ng MATLAB as a programming environment for applying statistical/probabilistic methods and tech
+niques. This course uses active teaching methodologies, such as weekly lab applied sessions, group
+work and technical projects.
+
+
+e-Payment Systems : Financial technologies are drastically changing the financial services industries. This course
+provides an introduction to major techniques used in e-payment services such blockchain and
+cryptocurrencies, Bitcoin, Ethereum, smart contracts, decentralized applications, smart contracts,
+alternative and P2P lending and crowdfunding, and robo-advising. Students are expected to develop
+a broad understanding of the recent FinTech development and its impact in the financial industries.
+Students will also have hands-on and problem solving experiences that can be useful in e-payment
+applications. This course uses active teaching methodologies, such as weekly lab applied sessions,
+group work and technical projects. In addition, speakers from the industry will be invited to discuss
+case studies and show the latest trends on the industry.
+
+
+
+Information Security and Privacy : This course introduces information security and privacy. The course covers topics related to
+cryptography such as symmetric and asymmetric encryptions, hash functions, digital signatures, key
+management, and public key infrastructures. Also, the course covers topics related to network
+security as packet sniffing, spoofing, TLS, IPSec, Firewalls, wireless networks security.
+Furthermore, topics related to Authentication, Authorization, Web security and Steganography will
+be covered. Risk analysis and ethics, and their applications to the development of a secure healthcare
+systems as a case study will be presented. Practical hands-on will be provided.
+
+
+
+Computing Ethics : This course will consider the ethical issues that arise as a result of the increasing use of computers,
+and the responsibilities of those who work with computers, The course materials will include
+technical issues in using computer science and may focus on a particular area such as software
+design as well as more traditional topics such as philosophical theories (e.g. utilitarianism,
+deontological theories, and rights), privacy, intellectual property rights, freedom of speech and
+liability hacking, viruses, computer crime, and employee surveillance. Group discussions and case
+study analysis are discussed.
+ 
+
+
+
+Enterprise Resource Planning Systems : This course introduces the concepts of integrated management of main business processes, often in
+real time and mediated by software and technology. In this course the main integrated system that
+will be discussed in the ERP system. ERP systems have many modules in a full integrated
+organization environment, however; for the purpose of this course three main modules will be
+discussed as follow; manufacturing, inventory and supply chain management. The course is an
+industrial course, lecturer from the industry take part of teaching cutting edge technologies in this
+domain such as SAP, Odoo, ERP next, Meta Fresh. This course uses active teaching methodologies,
+such as weekly lab applied sessions, group work and technical projects. In addition, speakers from
+the industry will be invited to discuss case studies and show the latest trends on the industry.
+ 
+
+Advanced web development : This course is designed to introduce a variety of technologies and techniques typically used in
+development of contemporary web-based systems, and to enable students to achieve a level of
+fluency in using these in a thoughtful and considered manner. Two web programming techniques
+will be introduced. The first is to use web-based embedded scripting language (PHP) on a web
+server (Apache) and a server-side database (MySQL), and the second is to use Ajax to manage
+asynchronous client-server communication and XML/JSON as data exchange languages.
+This course uses active teaching methodologies, such as weekly lab applied sessions, group work
+and technical projects.
+
+
+
+e-Business : E-Business can be defined as business transacted via the Internet and World Wide Web. Each year,
+e-commerce accounts for billions of dollars in transactions between business and consumers and
+over a trillion dollars in business-to-business transactions. E-commerce experienced explosive
+entrepreneurial growth between 1995 and 2000 before the "bursting of the dot.com bubble". The
+impact of e-commerce is not just in the creation of Web-based businesses but represents the building
+of a new industrial order.
+This course uses active teaching methodologies, such as weekly lab applied sessions, group work
+and technical projects.
+
+
+
+Business Intelligence : Business Intelligence Systems have become increasingly important in today's competitive
+environment. According to recent studies, companies that use BI and manage their data as a strategic
+resource and invest in its quality are already pulling ahead in terms of reputation and profitability.
+This course will examine Business Intelligence (BI) technologies that help a company to improve
+its business. It discusses BI topics from both managerial and technical perspectives. Managerial
+perspectives discuss how BI affects the organization's decision-making process, while technical
+perspectives discuss the foundation for an intelligent system (i.e., Machine learning, Warehousing,
+Online Analytical Processing, Data Mining). Practical exercises and projects will be assigned to
+enhance students' experience in business intelligent systems. This course uses active teaching
+methodologies, such as weekly lab applied sessions, group work and technical projects. In addition,
+speakers from the industry will be invited to discuss case studies and show the latest trends on the
+industry.
+
+Simulation in Business :The purpose of the course is to have students understand the general principles of simulation model
+design and concepts of computer simulation. The course introduces students to simulation types,
+mathematical model types and simulation software and languages. The course covers in details
+simulation of discrete system (Discrete Event Simulation and simulation by different equations) and 
+simulation of continuous system using differential equations with practical examples in
+management, banking, manufacturing and computer networks. Both Python programming
+language and MS Excel software are intended to be used throughout the course. This course uses
+active teaching methodologies, such as weekly lab applied sessions, group work and technical
+projects.
+
+Knowledge Management Systems : Knowledge management course will introduce the objectives of knowledge management, the
+definition of knowledge management, knowledge organization and structuring, knowledge
+management concepts, knowledge management implementation and applications covering AI, ML,
+Semantic Web ontologies among many. Knowledge modelling, building, exchanging/sharing
+methods will be covered as well in this course.
+This course is designed for data-oriented students with interest in machine interpretable methods
+for knowledge capture and sharing. It can be considered an introduction course for web-based
+knowledge graph technologies.
+This course uses active teaching methodologies, such as weekly lab applied sessions, group work
+and technical projects. In addition, speakers from the industry will be invited to discuss case studies
+and show the latest trends on the industry. 
+
+Total Quality Management :This course introduces students to the use of quality management (QM) principles to the fastpaced, dynamic, and global software (Product) development. Many concepts are introduced
+such as quality assurance (PQA) types, models, structures, operations, controls and development
+environment. In addition to Software Quality Process Theory, Metrics
+Product and Quality Testing; Verification, Validation, Test Levels and Testing Types. Software
+Engineering Standards in Testing and Quality Control and Assurance are also explained.
+Metrics are covered with real-life examples. Students are introduced to TQM basic concepts, tools,
+static measurements and applications such as, Statistical Process Control, Hardware reliability,
+Function Point (FP) analysis, Defect Density Measurement, Customer Satisfaction Measurement
+and other Problem Solving and Decision Making. This course uses active teaching methodologies,
+such as weekly lab applied sessions, group work and technical projects. In addition, speakers from
+the industry will be invited to discuss case studies and show the latest trends on the industry
+
+
+
+Document Analysis & Recognition : Course Description
+The purpose of the course is to provide a comprehensive knowledge of theoretical background and
+practical applications of digital image processing techniques, analysis and enhancement both in the
+spatial and frequency domains. Students are given practical experience of utilizing digital image
+processing for real world examples of document analysis and recognition using MATLAB. This
+course uses active teaching methodologies, such as weekly lab applied sessions, group work and 
+
+
+Information Resource Management :
+
+Roles of information systems in the overall strategy and management of organizations; Organization
+management; Information resources: Personnel, planning and control, technological trends,
+management implications, managing MIS department; Outflow of information; Documents
+generation and distribution; Team management; New issues in MIS
+
+
+Semantic Web : The Web Semantic course will introduce the notion of the Web Semantic, provide an overview of
+the underlying theory and technology, cover existing technologies and practices, and highlight
+current and potential applications. This course uses active teaching methodologies, such as weekly
+lab applied sessions, group work and technical projects.
+
+
+Operations Research : This course emphasizes the use of quantitative methods and techniques for effective decisionmaking. Model formulations and applications are used in solving business decision problems.
+Topics include: Linear Programming, Transportation, Assignment, CPM/PERT techniques, and
+Game Theory are covered. The course is an application oriented, it emphasizes learning by doing.
+Analytic techniques and computer packages will be used to solve problems facing business
+managers in decision environments
+
+
+e-Learning & Applications : This course introduces students to the concept of Electronic Learning and its applications within
+today’s fast-paced, dynamic, and global environment 
+
+
+
+e-Government : Course Description
+This course introduces the ways in which internet technologies are affecting how people interact
+with government, and how governments, in turn, are using and managing these technologies to
+better provide information and services to the public. It also emphasizes the benefits of adopting IT
+in e-government for all stockholders. It introduces the technology of e-government with an in-depth
+examination of current government development models and management challenges in the
+delivery of services and information, electronically. Furthermore, it will explore the skills and
+concepts needed to effectively manage e-government projects. Lastly, some successful practices of
+e-government projects will be addressed to emphasize the importance of implementing egovernment.
+ 
+
+Security Risk Management and Ethics : This course introduces students to the three key elements of risk management. Topics covered: risk
+analysis, risk assessment, and vulnerability assessment. Both quantitative and qualitative
+methodologies will be discussed as well as how security metrics can be modeled, monitored, and
+controlled. Several case studies will be used to demonstrate the risk management principles featured
+throughout the course. Risk assessments on the selected case study scenarios will be conducted by
+team work. Mitigation plans will be developed, and the results of their analysis will be presented,
+both in written reports and oral presentations. Ethical implications of security procedures will be
+studied as well.
+
+Software Packages: In order to develop students' skills which will enable them to get processional certificate, this course
+will introduce students to some certified software packages like SAP/3, Merlin MRP, Microsoft
+Management Packages and or any other software package that can add value to students. Weekly
+lab session.
+
+Advanced Computer Networks :This course explains and discusses advanced concepts of computer networks. Topics includes:
+VLANs, routing protocol; advanced TCP, silly window syndrome, adaptive timeout; network
+analysis, architecture, and design. network performance metrics measurements, polices and
+monitoring network management, SNMP protocol, SIM protocol, MIB protocol; asynchronous
+transfer Mode (ATM). Assessment will be through exams, assignments, and quizzes.
+
+
+Multimedia : This course aims to introduce the theoretical concepts of digital media including images, audio,
+animation and video. The difference between analog and digital media and the digital media storage
+process is discussed including the digital media encoding and decoding main concepts. An
+introduction to the different types of digital media compression techniques including the most
+popular file formats for each media type and digital memory issues. Lectures will be given in the
+lab for practical application. This course is assessed through exams, practical tests and assignments.
+
+
+Information Retrieva :The course aims at studying the theory, design, and implementation of text-based information
+systems. The course introduces IR core concepts on an abstract level, in addition to a design and an
+implementation of an IR system utilizing the acquired knowledge from the course. The course
+introduces several state-of-the-art IR concepts, as well as, trendy case studies in modern IR.
+After this course, students are expected to be able to design and implement a fully functional textbased retrieval system utilizing the acquired knowledge from this course. This course uses active
+teaching methodologies, such as weekly lab applied sessions, group work and technical projects.
+
+Enterprise Application Development :This course explores advanced application development techniques in a large enterprise wide
+setting. Topics include component development and reuse, distributed object technologies, multitier applications, data marshaling, transaction processing, concurrency problems and resolutions,
+load balancing and tuning, and application installation and deployment issues. This course uses 
+
+
+Database Languages and Tools : Develop database applications in a production environment using Oracle Developer 10g utilities
+which provides a comprehensive guide for developing database applications using Oracle 10g
+relational database and Developer 10g application development utilities. Database developments
+activities include using SQL commands to create tables and insert, update, delete and view data
+values. This course provides an overview of PL/SQL, explores the Developer 10g application
+development tools, and describes how to create an integrated database application, also it covers
+how to display application component in a Web browser and gives an overview to the database
+administration activities. This course uses active teaching methodologies, such as weekly lab
+applied sessions, group work and technical projects.
+
+
+Accounting Principles (1) : This course is an intensive study of the development of the accounting cycle, preparation of financial
+statements, and accounting for corporations. This course emphasizes international financial
+reporting standards and their application in understanding theories and policies relative to asset
+valuation, liability measurement, income determination, inventory costing methods, and internal
+control
+ 
+
+PRINCIPLES OF MICROECONOMICS :This course is an introductory course in microeconomics. Some of the issues covered include the
+foundations of economics, core concepts of microeconomics, Demand and Supply forces, the
+structure of product market, and production costs, and markets of resources 
+
+
+Data Mining : This course provides the students with an introduction to data mining, that is knowledge discovery
+from data (KDD). This course explores the concepts and techniques of knowledge discovery and
+data mining. The course will focus on issues relating to the feasibility, usefulness, effectiveness,
+and scalability of techniques for the discovery of patterns hidden in large data sets. The students
+will learn the basic concepts of data pre-processing, frequent pattern mining and association rules,
+classification, clustering, and outlier detection. Lectures will be given in the lab for practical
+application. This course is assessed through exams, practical tests and assignments.
+
+Advanced Java Programming : This course aims to introduce advanced programming skills based on core concepts of ObjectOriented Programming (OOP) and Design using Java programming language. It builds on the OOP
+course to finalize a Java full-stack application. This course starts with using some Java classes such
+as String, StringBuffer and StringBuilder, and StringtTokenizer for string-processing. It also
+focuses on I/O operations using files and streams, and JavaFX for developing rich client
+applications. In addition to, GUI components, event-handling, Generics, exception-handling,
+multithreading, and JavaFX Event-Handler using Inner Class, Anonymous Class, and Lambda
+Expression. Finally, it introduces databases connectivity using JDBC. The JDBC case study is based
+on MySQL Database and Eclipse IDE. Lectures will be given in the lab for practical application.
+This course is assessed through project, exams, practical tests and assignments.
+
+Human Computer Interaction :This course aims to provide an introduction to various Human Computer Interaction related topics.
+This course explains the components and steps of designing, developing and evaluating interactive
+computer systems for human use. It also addresses the importance of Ergonomics, interaction design
+and its activities, data gathering and analysis, prototyping, evaluation paradigms and techniques
+universal design principles, and Non-traditional interfaces of all kinds. It also highlights the steps
+of designing graphical user interfaces to achieve usability and user experience in interactive
+systems. The course also presents the need to adopt ideas that serve users with special needs and
+impairments. The content of the course enables students to deploy interaction design principles into
+health related applications (healthcare and patient management), where students are required to
+show the interaction design activities, prototyping, evaluation paradigms and techniques, and 
+universal design principles in the project, which is considered one of the most important outcomes
+of the course where students apply everything they have learned in this course.
+
+Fundamentals of IoT : This course introduces the fundamentals of the Internet Of Things (IoT) and discusses how the
+Internet of Things IoT works. Topics covered span IoT networking, IoT smart objects, IoT
+Networking protocols, and smart object connections. In addition, the course explores IoT data
+networks, connection types, IoT security, and popular applications of IoT networks. Simulationbased hands-on exercises and project will be offered.
+
+
+
+Artificial Intelligence : The aim of the course is to enable students to solve problems using explicit knowledge and
+reasoning techniques and to develop expert systems for simple problems. Students will be able (1)
+to express knowledge of a simple domain in propositional and/or first-order predicate calculus, (2)
+to design and develop expert solutions to simple problems where AI techniques can be employed,
+and (3) to write simple programs in Prolog that reason about the available knowledge to achieve
+their goals. Furthermore, students will learn some simple blind and heuristic search algorithms such
+as depth-first, breadth-first, best-first, hill climbing, and simulated annealing and techniques on how
+to control search using production systems. They will also have the ability to decide the appropriate
+search techniques (blind or heuristic) for some problems. This course will use a combination of
+lectures, class discussions, reading and writing assignments, case studies analysis, and hands-on
+work.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project-1 :This course represents the first stage of the graduation project, and it includes the theoretical aspects
+related to current problems and applications in IT. Student(s) should define, analyze the problem,
+and finally write a proposal. Then to present it to a predetermined committee in the department. It
+includes weekly meetings with the supervisors.
+
+Project -2 :This course represents the second stage of the graduation project. It includes the practical aspects:
+design, implementation, testing, and evaluation stages, and completing the project in its final
+version. A documentation of the whole project should be submitted for presentation and final
+examination. It includes weekly meetings with the supervisors.
+
+
+
+
+
+
+
+
+
+
+
+
+

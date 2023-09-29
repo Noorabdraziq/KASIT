@@ -1,0 +1,777 @@
+No pre: Discrete Mathematics, Fundamentals of Information Technology, Calculus-1,
+principles of Statistics, physics for Computer Science
+
+
+
+Pass Qualifications Exam: Computer Skills for Scientific 
+Faculties
+
+
+Computer Skills for Scientific Faculties: Web Applications Development, 
+Object-Oriented Programming, Theory of Computation, Numerical Analysis,
+
+
+Object-Oriented Programming: Data Structures, Database Management Systems,
+mobile Development Frameworks
+
+
+Calculus-1: Linear Algebra for Computational Sciences, Calculus-2
+
+
+Physics for Computer Science: Physics for Computer Science –
+Lab, Logic Design
+
+
+Data Structures: Advanced Programming in Special Languages,
+Data Structures Lab, Theory of Algorithms, Modeling and Simulation,
+Computer Graphics, Computer Networks, Operating Systems, Artificial Intelligence,
+Special Topics
+
+
+Physics for Computer Science –Lab: Logic Design
+
+
+Discrete Mathematics: Logic Design, Theory of Computation
+
+
+Software Engineering: computer Ethics, Design Patterns and Clean Code
+
+ 
+Logic Design: Computer Organization
+
+
+Linear Algebra for Computational Sciences: Numerical Analysis
+
+
+Principles of Statistics: Modeling and Simulation, Computer Systems Performance,
+Applied Statistics
+
+
+Theory of Computation: Systems Programming and Compilers Construction,
+Design And Implementation of Programming Languages
+
+
+Computer Organization: Systems Programming and Compilers Construction,
+Parallel and Distributed Systems, Computer Systems Performance 
+
+
+Theory of Algorithms:  Computational Problems and Techniques,
+Parallel and Distributed Systems, Graph Theory
+
+
+Computer Networks: Parallel and Distributed Systems,
+information Security and Privacy, Advanced Networking,
+Network Programming, Mobile Wireless Networks,
+Fundamentals of IoT, Cloud Computing Concepts,
+Network Security
+
+
+Database Management Systems: Software Engineering,
+Information Security and Privacy, Database Technologies and 
+applications, Security of Web Applications 
+
+
+Advanced Programming in Special Languages: Design Patterns 
+and Clean Code
+
+
+Operating Systems: Fundamentals of IoT, Cloud Computing Concepts
+
+
+Web Applications Development: Mobile Development Frameworks,
+Advanced Web Development, Security of Web Applications
+
+ 
+Computer Graphics: Digital Image Processing
+
+
+Computational Problems and Techniques: Bioinformatics,
+Machine Learning and Neural Network
+
+pass 45 hours: Seminar-Road to Software Industry
+
+
+Pass 90 hours: Project-1, Training 
+
+
+Project-1 : Project-2
+
+
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+
+
+Discrete Mathematics : This course studies the mathematical elements of computer science and their applications. Topics 
+include propositional logic; predicate logic; mathematical reasoning; techniques of proof; 
+mathematical induction; set theory; number theory; matrices; sequences and summations; 
+functions, relations and their properties, elementary graph theory, and tree (graph theory). In each 
+subject, its characteristics, forms, ways of representing it, the operations used in it, and ways of 
+linking these subjects together are studied. Homework will be assigned.
+
+
+
+Computer Skills for Scientific Faculties : This course studies the fundamental concepts of programming using C++. Topics includes: basic 
+structures of programming tools, like: variable names, data types, input and output statements, and 
+output formatting. Files. Selection statements structures. Repetition statements structures. 
+Functions. Enumeration datatype and strings data type. Arrays; 1D and 2D. The lectures will be 
+provided in the lab through active teaching methodologies individually or within groups
+
+
+
+Fundamentals of Information Technology : This course will introduce the fundamental knowledge of information technologies, and it works as 
+an introductory course for computer-related courses. It is a combination between a theoretical and 
+a practical course. In particular, the course provides students with a grounding knowledge on 
+several areas of information technologies including cutting edge technologies, careers in IT, basic 
+concepts of cloud computing and web technologies, and a general perceptive of project 
+management. Students are also going to be introduced practically to hardware maintenance, 
+software diagnostics and technical support. In addition, critical thinking methodologies and 
+techniques will be discussed, including numbering systems, flowcharts and related case studies. 
+Operating systems such as LINUX/UNIX with, memory allocation, and an introduction to 
+networks and security, and block chain concepts. The final part is concerned with technical 
+applications needed such as excel, advanced excel, technical writing, report generating and type 
+writing. Technical sections will be taught on lab sessions and group works. Active learning 
+methodologies will be applied through role playing, presentations and problem solving exercises.
+
+
+
+Web Applications development : This course aims to improve students’ ability in Front-End Web applications development using 
+client-side programming such as HTML 5, Cascading Style Sheet (CSS3), JavaScript. In addition, 
+the students will learn the fundamental concepts of front-end web development frameworks such 
+as Bootstrap and React front-end frameworks. The course will cover the Bootstrap framework, 
+which is the most popular CSS framework for creating responsive mobile-first websites. This 
+course will teach you how to create pages of a website using the Bootstrap v5 framework. In 
+addition, the course also covers the basic concepts of the React framework such as 
+Communicating with Props, Class-Based Components, State in React Components, Lifecycle 
+Methods, Handling User Input with Forms and Events, Making API Requests with React, and 
+Single Page Application Development. This course uses active teaching methodologies, such as 
+weekly lab applied sessions, group work and technical projects
+
+
+
+Object-Oriented Programming : The course aims to cover the fundamental concepts of OOP, such as Encapsulation and 
+Information-Hiding, Inheritance, Polymorphism, and Abstraction. The course uses Java 
+Programming language starting from the basic Java syntax based on Eclipse IDE. It focuses on the 
+understanding and practical mastery of OOP principles and Java components, such as classes, 
+objects, input/output, scanner objects (to read either from the keyboard or a file), loops, decisionmaking, array and multidimensional array, data abstraction, methods, method overloading, objects 
+garbage-collector, an introduction to exception-handling, etc. Finally, it presents an introduction to 
+JavaFX and its hierarchy based on Java inheritance OOP concepts, for developing rich client 
+applications. Lectures will be given in the lab for practical application. This course is assessed 
+through exams, practical tests and assignments.
+
+
+Data Structures : This Course introduces the students to the concepts of data structures. Topics includes: Pointers, 
+and pointer operations. Array implementation of lists, stacks, and queues. Dynamic 
+implementation of lists (singly, doubly, circular), stack operations and queue operations (and their 
+implementation as linked lists). STL, like: vectors, pairs, maps, sets, lists, stacks, queue. 
+Recursion. Tree dynamic, like binary search trees, segment, red-black, AVL trees. Hash Table and 
+Collision resolution. Weekly lab assignments will be given to the students and to be discussed 
+thourhg active teaching methodologies, in addition to problem solving tasks.
+
+
+Database Management Systems : The course aims to provide students with an overview of database management system 
+architecture and environment, an understanding of the basic database design and implementation 
+techniques, and a practical experience of designing and building relational databases. 
+Furthermore, it enables applying conceptual design methodologies for databases and learning 
+about the architecture and environments of the database management system. Students will 
+practice using database tools to create and manage database schemas systems and formulate DDL, 
+DML commands and run SQL queries. Advanced SQL topics such as creating database functions, 
+database Stored Procedures and database Triggers will be covered. Also, students will learn how 
+to manage database privileges and design suitable security and integrity constraints for database 
+schemas. Furthermore, the course will provide the students with practice project to connect a 
+relational DB using a programming language, in addition to practice using basic Oracle Forms and 
+Oracle Reports. This course will use a combination of traditional lectures, active teaching 
+methodologies, and hands-on lab lectures.
+
+
+
+Linear Algebra for Computational Sciences : The course uses linear algebra as one of the most important tools in applied mathematics, data 
+science, and artificial intelligence to help students learn how to handle vectors and matrices, solve 
+matrix-vector equations, perform Eigen value and Eigen vector and diagonalization analyses and 
+use principal component analysis to do dimension reduction on real-world datasets.  It covers 
+topics such as: solving systems of linear equations; matrices and matrix operations; homogeneous 
+and non-homogeneous systems; Gaussian elimination; elementary matrices and a method for 
+finding A−1; determinants; Euclidean vector spaces; linear transformations from Rn to Rm and 
+their properties; general vector spaces; subspaces; basis; dimension; row space; column space; null 
+space of a matrix; rank and nullity; and inner product spaces. All analysis will be performed in 
+python or any similar popular programming language.  Lectures will be given in the lab for 
+practical application. This course is assessed through exams, practical tests and assignments.
+
+
+
+
+Seminar-Road to Software Industry : IT students increasingly demand and require coverage of emerging technologies to prepare 
+themselves for subsequent employment and research. Industry and professional bodies are also 
+concerned that IT education does not always prepare students adequately for the world of work. 
+This professional practice seminar course aims to contribute to solving these two issues by 
+providing real-world experiences, inspiring students to choose their career path, and exposing them 
+to the trends, methods, and techniques that are of current interest in software industry through a 
+weekly seminar series. Professionals from software companies are invited to present different 
+aspects of their companies and to share their first-hand experience with students. This course can 
+enhance IT education and motivate students by covering leading-edge technologies and practices. 
+After each seminar, students will submit a personal evaluation and short reports relevant to the 
+seminar’s presentation. Attendance and participation in 8 seminars, including the evaluation of 
+each seminar and the short reports are the minimum requirements to pass the course.
+
+
+
+
+Calculus-1 : Functions: domain, operations on functions, graphs of functions; trigonometric functions; limits: 
+meaning of a limit, computational techniques, limits at infinity, infinite limits; continuity; limits 
+and continuity of trigonometric functions; the derivative: techniques of differentiation, derivatives 
+of trigonometric functions; the chain rule; implicit differentiation; differentials; Roll’s Theorem; 
+the mean value theorem; the extended mean value theorem; L’Hopital’s rule; increasing and 
+decreasing functions; concavity; maximum and minimum values of a function; graphs of functions 
+including rational functions (asymptotes) and functions with vertical tangents (cusps); 
+antiderivatives; the indefinite integral; the definite integral; the fundamental theorem of calculus ; 
+the area under a curve; the area between two curves; transcendental functions: inverse functions, 
+logarithmic and exponential functions; derivatives and integrals; limits (the indeterminate forms); 
+hyperbolic functions and their inverses; inverse trigonometric functions.
+
+
+
+Calculus-2 : Techniques of integration: integration by substitution; integration by parts, integrating powers of 
+trigonometric functions, trigonometric substitutions, integrating rational functions, partial 
+fractions, rationalization, miscellaneous substitution; improper integrals; application of definite 
+integral: volumes, length of a plane curve, area of a surface of revolution polar coordinates and 
+parametric equations: polar coordinates, graphs in polar coordinates, area in polar coordinates; 
+infinite series: sequences, infinite series, convergence tests, absolute convergence, conditional 
+convergence; alternating series; power series: Taylor and Maclurine series, differentiation and 
+integration of power series. 
+
+
+
+Principles of Statistics : Describing statistical data by tables, graphs and numerical measures, Chebychev’s inequality and 
+the empirical rule, counting methods, combinations, permutations, elements of probability and 
+random variables, the binomial, the Poisson, and the normal distributions, sampling distributions, 
+elements of testing hypotheses, statistical inference about one and two populations parameters
+
+
+
+
+
+Physics for Computer Science : This course is designed for first year computer science students. An introduction to physical 
+quantities and their applications for motion, forces, and fields is offered. Potentials and energy 
+concepts are used to define electrical currents and their interactions with resistors and capacitors. 
+The acquired knowledge is then used to develop the basics of circuit theory (using resistors and 
+capacitors networks). AC- circuits concepts are treated briefly (RC-circuit). The pn-junction will 
+be defined and their use as diodes and transistors with some applications is treated. Characteristics 
+of diodes and transistors will be studied and explained. 
+
+
+
+Physics for Computer Science-Lab : This laboratory is designed for first year computer science students. The lab is designed to give 
+students a hand-on experience on the subjects covered in 0302108 course. The Laboratory and the 
+course are to be taken simultaneously. The students are also trained on scientific reporting and 
+error estimation and propagation. The laboratory also enhances the teamwork skills and 
+collaboration between students.
+
+
+
+Advanced Programming in Special Languages : This course aims to equip the students with the knowledge and skills necessary to build robust 
+visual programs which include defensive programming techniques (error handling, exceptions, 
+assertions, debugging aids), current programming trends (functional and/or scripting), and code 
+testing and tuning strategies. In addition to problem-solving, this course discusses techniques to 
+access Web data and APIs. The course is delivered using C++, Java, PHP, Python, and/or the like.
+This course will be given in the lab and there will be weekly assignments individually and within 
+groups through active teaching methodologies
+
+
+
+Logic Design : This introduces students to logic design. It includes the main concepts of Logic Design; Boolean 
+Algebra; basic definitions; basic theorems and properties; Boolean functions; canonical and 
+standard forms; digital logic gates; minimization methods; combinational logic; sequential logic. 
+numbering systems: binary codes, Boolean algebra; gate-level minimization: algebraic 
+simplifications, Karnaugh maps, don't-care conditions; NAND and NOR Implementation; 
+Combinational Logic: adders and subtractors, decoders and encoders, multiplexers and 
+demultiplexors, ROMS and PLAs, sequential logic, flip flops, registers, counters, and serial adder.
+
+
+
+Theory of Computation : This is an introduction to the theory of computation. Topics include: sets; relations; closure and 
+languages; finite automata: deterministic and nondeterministic; closure and pumping lemma; 
+regular languages and expressions; Context-free grammar: regular languages and context-free 
+languages, pushdown automata, closure, turing machines, combining Turing machines and 
+machine schemas; introduction to P and NP classes
+
+
+
+Data Structures Lab : This course explores how different data structures are implemented and their main applications, so 
+the student can analyze any problem and identify the computer requirements appropriate to its 
+solution. It includes the implementation of Pointers and pointer operations, including pointers in 
+objects. Implementation of Linked list: singly, doubly, circular. Practical implementation of 
+Linked Stacks and using Stack to calculate arithmetic expressions. Practical implementation of 
+Linked Queues. Practical implementation of the STL data structures. Practical implementation of 
+recursive functions on Binary Search Trees, and other types of trees. The student’s assessment 
+will be based on projects implemented during the lab session through active teaching 
+methodologies.
+
+
+
+Computer Ethics : In this course students will examine personal and contemporary organizational ethical issues and 
+challenges in the design, development, and use of computing technologies in a global 
+environment. Topics include the basis for computer ethics, reliability and safety of computer 
+systems, protecting software and other intellectual property, computer crime and legal issues, 
+professional codes of ethics; and responsibility of individuals for their actions, act with 
+transparency and accountability, understanding the implications of their actions towards 
+individuals, organizations, and society. There will be some case studies.
+
+
+
+
+Computer Organization : This introduces students to computer organization. Topics include: concepts of computer 
+architecture; hardware components of a computer; instruction set: instruction formats, encoding of 
+instructions, types; execution unit: registers design, combinational shifters, ALU, division and 
+multiplication algorithms; control unit: register transfer language, hardwired and micro 
+programmed control unit; memory unit: RAM, cache memory, associative memory, virtual 
+memory; input/output processors; introduction to multiprocessor systems and parallel processing. 
+There will be assignments. 
+
+
+
+Theory of Algorithms : The main goal of this course is to introduce complexity analysis of algorithms with an emphasis on 
+efficient design techniques for solving various computational problems. Topics include complexity 
+analysis including big O, big omega, and big theta notations. Recurrence equations and recursive 
+algorithms. Algorithm design techniques include sequential, divide-and-conquer, greedy, and 
+dynamic programming. Sorting algorithms include insertion sort, merge sort, heap sort, and 
+quicksort. Searching algorithms include breadth-first search and depth-first search. Graph-based 
+algorithms including Kruskal’s algorithm. Optimization problems include minimum spanning tree 
+and multistage graph problems. The assessment of this course is through exams, quizzes, and 
+assignments.
+
+
+Numerical Analysis : This an introductory course to numerical analysis. Students will be introduced to: computer 
+arithmetic representation, error analysis; finding roots of a function, iterative methods; solution of 
+linear systems of equations; solution of nonlinear systems; interpolation techniques; numerical 
+integration, curve fitting; differentiation; optimization techniques. There will be weekly practice in 
+the lab using a programming language.
+
+
+
+Modeling and Simulation : This is an introductory course to modelling and computer simulation. The topics include: 
+fundamentals concepts of models for computer simulation; the steps to develop a computer model 
+and simulation; random variables: probability distributed function, cumulative distribution 
+function, variates; Monte Carlo methods; simulation modeling: discrete-event simulation, 
+continuous simulation; verification and validation of simulation models: input analysis, output 
+analysis; queuing theory models; develop, test and debug simulation programs; sample simulation 
+applications. There will be weekly practice in the lab using programming language or simulation 
+software tools
+
+
+Computer Graphics : This an introductory course to graphics systems and overview of computer graphics applications. 
+Topics includes: graphics output primitives and its attributes; geometric transformations; threedimensional object representations; graphical user interface and its attributes; introduction to 
+OpenGL programming in C++ and its applications. Overview of well-known computer graphics 
+software through a course project that covers 3D computer graphics. The lectures taught in the lab 
+through active teaching methodologies individually or within groups.
+
+
+
+
+Computer Networks : This course explores key concepts and essential technologies of computer networks and broad 
+range of topics in networking. It includes general overview, networks applications, network 
+classifications and topologies, network layers, channel performance measures, transmission 
+media, communication network protocols and architecture; Data link layer: framing, error 
+detection and correction, CSMA/CD, LAN IEEE standards; Network layer: IP service model, IP 
+addressing, subnetting, host configuration DHCP, ARP Protocol, ICMP protocol; Transport layer: 
+UDP protocol, TCP protocol, TCP reliable transfer and sliding window, TCP flow and congestion 
+control; Application layer: DNS protocol, NAT protocol, HTTP protocol, persistent and nonpersistent HTTP connection. Weekly practice in the lab through active teaching methodologies.
+
+
+
+
+Operating Systems : This course introduces students to management of computer resources. It includes: definition and 
+role of the operating systems, history of operating systems and development, functionality and 
+structuring methods of a typical operating system; concepts of process versus thread, scheduling, 
+dispatching and context switching, concurrent execution: the "mutual exclusion" problem and 
+some solutions; deadlocks: causes, conditions, and methods for resolution; memory management; 
+virtual memory management; mass-storage structure. The course will involve regular assignments 
+and instructions on Linux Operating System to map different theoretical parts with Linux. 
+Students will get introduced to using a Linux machine, will learn key important Linux 
+configurations, and will perform Linux performance evaluations for different system resources.
+The lectures taught in the lab through active teaching methodologies individually or within 
+groups
+
+
+Systems Programming and Compilers Construction : 
+This is an introduction to systems programming and compilers. It includes: introduction to system 
+programming; assemblers: basic function; machine-dependent and machine-independent features, 
+design options; loaders and linkers: basic functions, types of loaders, Macro processor: basic 
+functions, features, design options; advanced concepts in: virtual machines, runtime environments, 
+memory garbage collection. Introduction to compiling: lexical analysis, specification and 
+recognition of tokens, finite automata; syntax analysis: grammars, top-down and bottom-up 
+passing, syntax-directed translation; semantic routines; storage-allocation strategies; code 
+generation; error recovery. Weekly practice in the lab.
+
+
+Design and Implementation of Programming Languages :
+This course introduces the students to the design and implementation of programming languages. 
+It includes: design and basic approaches to language implementation; informal semantics and 
+implementation of various constructs from typical higher-level languages; Languages: data, 
+operations, control structures, storage management and operating environment; case studies 
+covering different paradigms: imperative, logic, functional and object-oriented programming 
+languages. Weekly practice in the lab. 
+
+
+Computational Problems and Techniques :
+The main goal of this course is to enable the students to solve classical computational problems, 
+such as 0-1 knapsack, rod cutting, matrix chain multiplication, N-queens, and sudoku, using 
+various computational techniques. The students will be introduced to the theoretical concepts for 
+the computational problems and techniques and their implementations. The course covers various 
+computational techniques such as complete search, iterative (all subsets and all permutations), 
+backtracking, greedy approach, dynamic programming, and divide-and-conquer (binary search 
+technique). Also, the course covers two-pointers and range queries including static (partial and 
+prefix sums) and dynamic (segment tree) with their implementations and usage. Weekly problems 
+will be presented in the lab either individually or within groups.
+
+
+
+Parallel and Distributed Systems :
+This course introduces the students to parallel and distributed systems. Topics include cost versus 
+Performance, Scope of Parallel Computing, Issues in Parallel Computing, a Taxonomy of Parallel 
+Architectures, Dynamic Interconnection Networks, Static Interconnection Networks, Evaluating 
+Static Interconnection Networks, Characterization of Distributed Systems, DS System Models, 
+Interprocess Communication, Remote Invocation, Operating System Support, clock 
+synchronization, Distributed Mutual Exclusion Cloud Computing, IoT, Blockchain and 
+Cryptocurrency, particle assignment will be required.
+
+
+
+
+Project-1 : The project includes theoretical and practical aspects of Computer Science; the first stage of the 
+graduation project, includes project proposal, analysis and preparation, and project design stages. 
+A report at the end of each stage should be delivered to the department and the supervisor.
+
+
+
+Project- 2 : It includes the second stage of the graduation project, which covers the implementation, testing 
+and evaluation stages, and completing the project in its final version. A documentation of the 
+whole project should be delivered to the department and the supervisor. Finally, the project should 
+be submitted for presentation and final examination.
+
+
+Training : The student must be trained in an institution, for at least 6 weeks. The student must provide a 
+report from the institution/enterprise that shows the efficiency of this training according to the 
+regulations of the Dean's Council of the Faculty's Departments or get a certificate in one of the 
+information technology fields from a recognized institute.
+
+
+Software Engineering : This course aims is to present software engineering as a body of knowledge. The course is 
+designed to present software engineering concepts and principles in parallel with the Software 
+Development Life Cycle (SDLC). The course will begin with an introduction to software 
+engineering, giving students a definition of this body of knowledge, as well as a discussion of the 
+main methodologies of software engineering including agile methods i.e., XP. Students will then 
+learn about the five major phases of the SDLC: requirements gathering and analysis, design, 
+coding/implementation, validation, and evolution. This includes software modelling using Unified 
+Modelling Language (UML), a standardized general-purpose modelling language used to create 
+visual models of object-oriented software, for requirements gathering and analysis, and design. 
+Students will also learn about project management and quality management for the purpose of 
+delivering high-quality software that satisfies customer needs and is within budget and schedule. 
+Delivery will be by in-class lectures, recorded lectures, practical sessions in the lab, case studies 
+from different domains (i.e., healthcare domain), and assignments. Assignments will include a 
+term project illustrative of professional practice in developing computer information systems. One 
+or two guest speakers with many years of experience in software engineering will be invited to 
+share their first-hand experience with students.
+
+
+
+Artificial Intelligence : The aim of the course is to enable students to solve problems using explicit knowledge and
+reasoning techniques and to develop expert systems for simple problems. Students will be able (1)
+to express knowledge of a simple domain in propositional and/or first-order predicate calculus, (2)
+to design and develop expert solutions to simple problems where AI techniques can be employed,
+and (3) to write simple programs in Prolog that reason about the available knowledge to achieve
+their goals. Furthermore, students will learn some simple blind and heuristic search algorithms
+such as depth-first, breadth-first, best-first, hill climbing, and simulated annealing and techniques
+on how to control search using production systems. They will also have the ability to decide the
+appropriate search techniques (blind or heuristic) for some problems. The students will also be
+given some grounding in the principal techniques of data mining and be introduced to some
+applications of data mining. Students will be introduced to some learning techniques to help obtain
+a clear picture of the concepts of machine learning. This course will use a combination of lectures, 
+class discussions, reading and writing assignments, case studies analysis, and hands-on work.
+
+
+
+Information Security and Privacy : This course provides an introduction to information security and privacy. The course covers topics 
+related to cryptography such as symmetric and asymmetric encryptions, hash functions, digital 
+signatures, key management, and public key infrastructures. Also, the course covers topics related 
+to network security as packet sniffing, spoofing, TLS, IPSec, Firewalls, wireless networks 
+security. Furthermore, topics related to Authentication, Authorization, Web security and 
+Steganography will be covered. Risk analysis and ethics, and their applications to the development 
+of a secure healthcare systems as a case study will be presented. Practical hands-on will be 
+provided.
+
+
+
+Advanced Networking : This course explains and discusses advanced concepts of computer networks. Topics includes: 
+VLANs, routing protocol; advanced TCP, silly window syndrome, adaptive timeout; network 
+analysis, architecture, and design. network performance metrics measurements, polices and 
+monitoring network management, SNMP protocol, SIM protocol, MIB protocol; asynchronous 
+transfer Mode (ATM). Assessment will be through exams, assignments, and quizzes.
+
+
+
+Network Programming : This course discusses the practical aspects of network programming using a modern programming 
+language. Topics the course covers span: internet addressing; data streams; user datagram 
+protocol: datagram packet, datagram socket, sending and receiving UDP packets, building a UDP 
+Client/Server application; transmission control protocol: TCP sockets, server sockets; building a 
+TCP Client/Server application; multi-threaded applications, synchronization; implementing 
+application protocols. Hands-on lab exercises will be offered in each class meeting. The lectures 
+will be taught in the lab through active teaching methodologies individually or within groups.
+
+
+
+
+
+Design Patterns and Clean Code : This course introduces the students to the different design patterns and clean code concepts. 
+Topics include foundation of Object-oriented programming design principles, SOLID principles, 
+creational, structural and behavioral design patterns, code refactoring, clean code design,
+modelview-controller (mvc) pattern, unit testing, real-life examples of good and bad objectoriented software. 
+Practical assignments will be provided.
+
+
+
+Computer Systems Performance : This course explores the concepts of performance evaluation, performance metrics, and 
+benchmarking for Computer Systems. It discusses the characteristics of a good performance 
+metric, and contrasts different techniques for data summarization. The course discusses the basics 
+of error quantification in experiments, and sheds light on comparing alternatives. Measurement 
+tools and techniques are also covered, in addition to the basics analytical modelling. Practical lab 
+exercises and/or assignments on benchmarking and code profiling will be offered.
+
+
+
+Graph Theory : This course explores the concepts of a graph. Topics include graph properties and types including 
+computer representation of graphs; Euler graph and Hamiltonian graph; Planar graph and bipartite 
+graph; Graph isomorphism; Handshaking theorem; Shortest path algorithm such as Dijkstra's 
+algorithm; NP-complete graph problems such as graph coloring (vertex coloring, edge-coloring, 
+chromatic index, and number), maximum independent set, minimum vertex cover, traveling 
+salesman problem; and Enumeration including generating counting methods for selections and 
+arrangements. Hands-on lab exercises will be offered.
+
+
+
+Mobile Wireless Networks : This introduces wireless networks and their basic operations. Topics include different types of 
+wireless technologies and systems, the basics of how they operate, key commercial systems; Wi-Fi 
+wireless networks, Bluetooth wireless technology, cellular Mobile IP and mobile routing; 
+Transport layer over wireless networks; mobile wireless network applications; Introduction to 
+mobile location-based services. Assessment will be through exams, assignments, and quizzes.
+
+
+Special Topics : Selected Topics in advanced areas of computer Science; There will be report and documentation 
+on contemporary state of the art topics in Computer Science. Weekly practice in the lab.
+
+
+Fundamentals of IoT : This course introduces the fundamentals of the Internet of Things (IoT) and discusses how the 
+Internet of Things IoT works. Topics include: IoT, IoT networking, IoT smart objects, IoT 
+networking protocols, and smart object connections; IoT data networks, connection types, IoT 
+security, and popular applications of IoT networks. Simulation-based hands-on exercises and 
+project will be offered.
+
+
+Cloud Computing Concepts : This course explores the fundamentals Cloud Computing technologies. It covers topics such as 
+virtualization, containerization, clustering, cloud resource management, and cloud storage; 
+popular cloud frameworks spanning batch and data stream processing; solutions to issues relevant 
+to load management, fault-tolerance, distributed systems, and security in the Cloud. Hands-on 
+weekly lab exercises using one or more cloud infrastructure technologies will be offered.
+
+
+Mobile Development Frameworks : 
+This course aims to provide students with a foundational understanding of the technologies, 
+methods, and skills required to design and develop applications for current and emerging mobile 
+computing devices. In this course, students learn to develop mobile applications to solve business 
+problems. Topics covered include different software platforms, tools for native and cross-platform 
+app development (i.e., React Native, Flutter, Xamarin, Sencha), user interface, and database 
+handling for mobile applications. Students are required to consider the impact of user 
+characteristics, device capabilities, networking infrastructure, and deployment environment, to 
+develop mobile applications that can meet the requirements of stakeholders. During the weekly 
+practical tutorials, students use different frameworks, with a focus on the React Native and Flutter, 
+in learning how to design and develop a range of mobile applications. At the end of this course, 
+students will be able to independently make a mobile app for android and iOS that makes use of 
+database, user authentication, app notifications, design principles, and user experience. The course 
+hosts several experts in the field of development and IT operations from the local market to cover 
+the practical side of the course and to share their first-hand experience with students.
+
+
+
+Database Technologies and applications :
+This course aims to introduce the students to emerging topics in database systems. The course is 
+specially designed with an emphasis on advanced and emerging concepts in database systems such 
+as Big data management, data management with cloud platforms, NoSQL databases, and Graph 
+databases. The course will allow students to focus on topics that are state-of-the-art research and 
+recent technologies in the field of database and information systems.
+
+
+
+Digital Image Processing : 
+This course aims to introduce the basic concepts, techniques, and algorithms of digital image 
+processing. It explains the fundamental techniques of the following: acquisition of the digital 
+images (equipment, sampling, quantization, and color representation), enhancement of digital 
+images in spatial and in frequency domains (smoothing, sharpening, edge detection, thresholding, 
+histogram equalization, morphological operations, etc.), conversion the digital image into Fourier 
+and other transforms, feature identification, image compression, application to models of human 
+and machine vision. In addition, students will be able to apply the image processing techniques to 
+solve real-world problems in any domain. Specifically, students are required to work through a 
+case study in the healthcare domain and show how to deploy the image processing techniques to 
+perform enhancement, segmentation, analysis, diagnosis, etc. into the medical images. This course 
+is given in the lab because it requires practical demonstrations on using the state-of-the-art 
+Matlab-Image processing software package.
+
+
+Advanced Web Development : 
+This course is designed to introduce a variety of technologies and techniques typically used in 
+development of contemporary web-based systems, and to enable students to achieve a level of 
+fluency in using these in a thoughtful and considered manner. Two web programming techniques 
+will be introduced. The first is to use web-based embedded scripting language (PHP) on a web 
+server (Apache) and a server-side database (MySQL), and the second is to use Ajax to manage 
+asynchronous client-server communication and XML/JSON as data exchange languages. This 
+course uses active teaching methodologies, such as weekly lab applied sessions, group work and 
+technical projects.
+
+
+Security of Web Applications :
+This course introduces students to a foundation in the theories and practice relating to web 
+application security. Topics covered: web applications vulnerabilities and attacks, building secure 
+web applications, concepts associated with deploying and securing a typical HTTP environment as 
+well as defensive techniques that can be employed. Teaching of this course will be based on active 
+learning methodology such that students will work in groups to discuss and analyze the 
+vulnerability in web applications
+
+
+Network Security :
+This course introduces students to many facets of network security and forensics and is a lab-based 
+course. Topics covered: the areas of ARP related attacks, MAC table related attacks, VLAN 
+related attacks, DNS related attacks, DHCP related attacks, and some concepts related to network 
+forensics such as intrusion detection, evidence collection, network auditing, network security 
+policy design and implementation as well as preparation for and defense against attacks. The 
+issues and facilities available to both the intruder and data network administrator will be examined 
+and evaluated with appropriate laboratory exercises to illustrate their effect.
+
+
+
+
+Applied Statistics :
+This course is an introduction to practical applied statistics with R, a programming language and 
+software environment for statistical computing, and with RStudio, an integrated development 
+environment for R. Topics include introduction to R programming, summarizing data, probability 
+and statistics in R, simple and multiple linear regression, categorical predictors and interactions, 
+model diagnostics, collinearity, variable selection and model building, selected data analyses. The 
+course graphically introduces those concepts utilizing R as a programming environment for 
+applying statistical/probabilistic methods and techniques. This course is a practical course and will 
+contain small projects and programming assignments for specific problems using R programming 
+language.
+
+
+Bioinformatics :
+This course explores how the integration of computer science, statistics and mathematics 
+knowledge can be used to tackle complex life sciences problems. It covers several topics like: 
+general genomics, cells and DNA sequence features; sequence alignment; sequence motifs; search 
+sequence databases; phylogenetic trees; Hidden Markov Models, and microarray data analysis: 
+normalization and clustering; other emerging topics. The students will present case studies in one 
+of the related topics.
+
+
+Machine Learning and Neural Network :
+This course will help students to develop basic understanding of principles of learning theory, 
+theoretical and mathematical foundations of the machine learning and derive practical solutions 
+using predictive analytics. In addition, it explains what machine learning is and how it is related to 
+statistics and data analysis. The class will cover topics in regression, classification, mixture 
+models, neural networks, basic deep learning, ensemble methods and reinforcement learning, 
+hidden Markov models, and Bayesian networks, generative/discriminative learning, 
+parametric/non-parametric learning, support vector machines, unsupervised learning, expectation 
+maximization, dimensionality reduction, and kernel methods. The course will also discuss recent 
+applications of machine learning, autonomous navigation, bioinformatics, speech recognition, and 
+text and web data processing. Delivery will combine traditional lectures with other active teaching 
+methodologies, such as group discussions, group solving problems, analysis of cases and debates, 
+case study from different domains, and assignments.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

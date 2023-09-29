@@ -1,0 +1,450 @@
+
+var json_data = 
+
+
+{
+ "name": "BIT",
+ "children": [
+   {
+    "name": "Discrete Mathematics",
+    "description": "This course studies the mathematical elements of computer science and their applications. Topics include propositional logic; predicate logic; mathematical reasoning; techniques of proof; mathematical induction; set theory; number theory; matrices; sequences and summations; functions, relations and their properties, elementary graph theory, and tree (graph theory). In each subject, its characteristics, forms, ways of representing it, the operations used in it, and ways of linking these subjects together are studied. Homework will be assigned",
+    "children": [
+     
+	
+	 
+       {
+        "name": "Statistical Packages",
+        "description": "This course aims at introducing the main statistical and probabilistic concepts for scientific applications. In addition, the course introduces different application fields of those concepts in the business intelligence and decision support systems. The course graphically introduces those concepts utilizing MATLAB as a programming environment for applying statistical/probabilistic methods and techniques. This course uses active teaching methodologies, such as weekly lab applied sessions, group work and technical projects",
+		
+		"children": [
+       {
+        "name": "Enterprise Resource Planning Systems",
+        "description": "This course introduces the concepts of integrated management of main business processes, often in real time and mediated by software and technology. In this course the main integrated system that will be discussed in the ERP system. ERP systems have many modules in a full integrated organization environment, however; for the purpose of this course three main modules will be discussed as follow; manufacturing, inventory and supply chain management. The course is an industrial course, lecturer from the industry take part of teaching cutting edge technologies in this domain such as SAP, Odoo, ERP next, Meta Fresh. This course uses active teaching methodologies, such as weekly lab applied sessions, group work and technical projects. In addition, speakers from the industry will be invited to discuss case studies and show the latest trends on the industry",
+	   },
+       {
+        "name": "Business Intelligence",
+        "description": "Business Intelligence Systems have become increasingly important in today's competitive environment. According to recent studies, companies that use BI and manage their data as a strategic resource and invest in its quality are already pulling ahead in terms of reputation and profitability. This course will examine Business Intelligence (BI) technologies that help a company to improve its business. It discusses BI topics from both managerial and technical perspectives. Managerial perspectives discuss how BI affects the organization's decision-making process, while technical perspectives discuss the foundation for an intelligent system (i.e., Machine learning, Warehousing, Online Analytical Processing, Data Mining). Practical exercises and projects will be assigned to enhance students' experience in business intelligent systems. This course uses active teaching methodologies, such as weekly lab applied sessions, group work and technical projects. In addition, speakers from the industry will be invited to discuss case studies and show the latest trends on the industry",
+		
+		
+		"children": [
+       {
+        "name": "Semantic Web",
+        "description": "The Web Semantic course will introduce the notion of the Web Semantic, provide an overview of the underlying theory and technology, cover existing technologies and practices, and highlight current and potential applications. This course uses active teaching methodologies, such as weekly lab applied sessions, group work and technical projects",
+	   },
+	   {
+        "name": "Information Retrieval",
+        "description": "The course aims at studying the theory, design, and implementation of text-based information systems. The course introduces IR core concepts on an abstract level, in addition to a design and an implementation of an IR system utilizing the acquired knowledge from the course. The course introduces several state-of-the-art IR concepts, as well as, trendy case studies in modern IR. After this course, students are expected to be able to design and implement a fully functional text-based retrieval system utilizing the acquired knowledge from this course. This course uses active teaching methodologies, such as weekly lab applied sessions, group work and technical projects",
+	   }
+      ]
+	  
+	  
+       },
+	   
+	   {
+        "name": "Total Quality Management",
+        "description": "This course introduces students to the use of quality management (QM) principles to the fast-saced, dynamic, and global software (Product) development. Many concepts are introduced such as quality assurance (PQA) types, models, structures, operations, controls and development environment. In addition to Software Quality Process Theory, MetricsProduct and Quality Testing; Verification, Validation, Test Levels and Testing Types. Software Engineering Standards in Testing and Quality Control and Assurance are also explained.Metrics are covered with real-life examples. Students are introduced to TQM basic concepts, tools, static measurements and applications such as, Statistical Process Control, Hardware reliability, Function Point (FP) analysis, Defect Density Measurement, Customer Satisfaction Measurement and other Problem Solving and Decision Making. This course uses active teaching methodologies, such as weekly lab applied sessions, group work and technical projects. In addition, speakers from the industry will be invited to discuss case studies and show the latest trends on the industry",
+		
+	   },
+	   {
+        "name": "Operations Research",
+        "description": "This course emphasizes the use of quantitative methods and techniques for effective decision-making. Model formulations and applications are used in solving business decision problems. Topics include: Linear Programming, Transportation, Assignment, CPM/PERT techniques, and Game Theory are covered. The course is an application oriented, it emphasizes learning by doing. Analytic techniques and computer packages will be used to solve problems facing business managers in decision environments",
+		
+	   }
+
+      ]
+			
+		
+       },
+	   {
+        "name": "Document Analysis & Recognition",
+        "description": "The purpose of the course is to provide a comprehensive knowledge of theoretical background and practical applications of digital image processing techniques, analysis and enhancement both in the spatial and frequency domains. Students are given practical experience of utilizing digital image processing for real world examples of document analysis and recognition using MATLAB. This course uses active teaching methodologies, such as weekly lab applied sessions, group work and technical projects",
+		
+	   }
+   
+   ]
+   
+   
+   },
+   
+   
+   {
+    "name": "Principles of Microeconomics",
+    "description": "This course is an introductory course in microeconomics. Some of the issues covered include the foundations of economics, core concepts of microeconomics, Demand and Supply forces, the structure of product market, and production costs, and markets of resources",
+   },
+   {
+    "name": "Accounting -1",
+    "description": "Accounting -1",
+   },
+   {
+    "name": "Fundamentals of Information",
+    "description": "This course will introduce the fundamental knowledge of information technologies, and it works as an introductory course for computer-related courses. It is a combination between a theoretical and a practical course. In particular, the course provides students with a grounding knowledge on several areas of information technologies including cutting edge technologies, careers in IT, basic concepts of cloud computing and web technologies, and a general perceptive of project management. Students are also going to be introduced practically to hardware maintenance, software diagnostics and technical support. In addition, critical thinking methodologies and techniques will be discussed, including numbering systems, flowcharts and related case studies. Operating systems such as LINUX/UNIX with, memory allocation, and an introduction to networks and security, and block chain concepts. The final part is concerned with technical applications needed such as excel, advanced excel, technical writing, report generating and type writing. Technical sections will be taught on lab sessions and group works. Active learning methodologies will be applied through role playing, presentations and problem solving exercises",
+	"children": [
+       {
+        "name": "Management Information Systems",
+        "description": "This course aims at introducing the concepts of management information system and its resources. This course works as a road map for system management courses. The course covers fundamental concepts of MIS; by elaborating on the impact of IT on several sectors including: industry, strategy and finance. In industry, Porter’s five forces models are studied and how they are used to gain competitive advantages. On the other hand, in strategy, RGT framework is discussed in addition to Porter’s strategies. Breakeven point is studied as a part of the impact of IT in finance. The major business initiatives are covered including: Supply Chain Management (SCM), Customer Relationship Management (CRM), Enterprise Resource Planning (ERP) and Social Media (SM). OLTP and OLAP information processing tools which support business intelligence (BI) are also discussed. IT tools which are used to support OLTP are database and Database Management System DBMS. On the other hand, IT tools which are used to support OLAP are data warehouse and data mining tools. Decision Support Systems (DSS) and Expert Systems (ES) are discussed in terms of concept and usage. E-commerce models, marketing mix, and how to move money easily and securely are investigated through the course",
+		"children": [
+		{
+        "name": "Information Resource Management",
+        "description": "Roles of information systems in the overall strategy and management of organizations; Organization management; Information resources: Personnel, planning and control, technological trends, management implications, managing MIS department; Outflow of information; Documents generation and distribution; Team management; New issues in MIS",
+		}
+		]
+	   },
+	   {
+        "name": "Computer Ethics",
+        "description": "Computer Ethics",
+	   }
+      ]
+   },
+   
+   
+   
+   
+   {
+    "name": "Computer Skills for Scientific Faculties",
+    "description": "This course studies the fundamental concepts of programming using C++. Topics includes: basic structures of programming tools, like: variable names, data types, input and output statements, and output formatting. Files. Selection statements structures. Repetition statements structures. Functions. Enumeration datatype and strings data type. Arrays; 1D and 2D. The lectures will be provided in the lab through active teaching methodologies individually or within groups",
+	"children": [
+       {
+        "name": "Object Oriented Programming",
+        "description": "The course aims to cover the fundamental concepts of OOP, such as Encapsulation and Information-Hiding, Inheritance, Polymorphism, and Abstraction. The course uses Java Programming language starting from the basic Java syntax based on Eclipse IDE. It focuses on the understanding and practical mastery of OOP principles and Java components, such as classes, objects, input/output, scanner objects (to read either from the keyboard or a file), loops, decision-making, array and multidimensional array, data abstraction, methods, method overloading, objects garbage-collector, an introduction to exception-handling, etc. Finally, it presents an introduction to JavaFX and its hierarchy based on Java inheritance OOP concepts, for developing rich client applications. Lectures will be given in the lab for practical application. This course is assessed through exams, practical tests and assignments",
+		"children": [
+		
+		
+		
+		
+		
+		{
+        "name": "Data Structures",
+        "description": "",
+		"children": [
+		
+		{
+        "name": "Theory of Algorithms",
+        "description": "",
+		},
+		
+		
+		{
+        "name": "Computer Networks",
+        "description": "",
+		"children": [
+		
+		
+		
+		
+		{
+        "name": "Advanced Computer Networks",
+        "description": "",
+		},
+		
+		
+		
+		{
+        "name": "Fundamentals of IoT",
+        "description": "",
+		},
+		
+		
+		
+		
+		{
+        "name": "Information Security and Privacy",
+        "description": "",
+		"children": [
+		
+		{
+        "name": "Security Risk Management and Ethics",
+        "description": "",
+		},
+		
+		{
+        "name": "e-payment",
+        "description": "",
+		},
+		
+		
+		
+		
+		
+		
+		]
+		},
+		
+		
+		
+		
+		
+		
+		
+		
+		]
+		},
+		
+		
+		{
+        "name": "Operating Systems",
+        "description": "",
+		"children": [
+		
+		{
+        "name": "IoT",
+        "description": "",
+		},
+		
+		
+		{
+        "name": "Enterprise Application Development",
+        "description": "",
+		},
+		
+		
+		
+		]
+		},
+		
+		
+		{
+        "name": "Simulation in Business",
+        "description": "",
+		},
+		
+		
+		{
+        "name": "Special Topics",
+        "description": "",
+		},
+		
+		
+		{
+        "name": "Software Packages",
+        "description": "",
+		},
+		
+		{
+        "name": "Multimedia",
+        "description": "",
+		},
+		
+		{
+        "name": "Artificial Intelligence",
+        "description": "",
+		},
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		]
+		},
+		
+		
+		{
+        "name": "Database Management Systems",
+        "description": "",
+		"children": [
+		{
+        "name": "Software Engineering",
+        "description": "",
+		"children": [
+		
+		{
+        "name": "IT Project Management",
+        "description": "",
+		},
+		{
+        "name": "Systems Analysis and Design",
+        "description": "",
+		},
+		
+		
+		
+		
+		
+		
+		]
+		},
+		{
+        "name": "Database Languages & Tools",
+        "description": "",
+		},
+		{
+        "name": "Data Mining",
+        "description": "",
+		},
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		]
+		},
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		{
+        "name": "Advanced Java Programming",
+        "description": "",
+		},
+		
+		
+		
+		
+		
+		]
+	   },
+	   {
+        "name": "Web Applications Development",
+        "description": "",
+		"children": [
+		{
+        "name": "Advanced web development",
+        "description": "",
+		"children": [
+		{
+		"name": "e-Business",
+        "description": "",
+		},
+		{
+		"name": "e-Learning & Applications",
+        "description": "",
+		},
+		{
+		"name": "e-Government",
+        "description": "",
+		},
+		{
+		"name": "Mobile",
+        "description": "",
+		},
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		]
+		},
+		{
+		"name": "Human Computer Interaction",
+        "description": "",
+		},
+		{
+		"name": "Web Server Programming",
+        "description": "",
+		},
+		
+		]
+	   }
+      ]
+   },
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   {
+    "name": "Calculus 1",
+    "description": "",
+	"children": [
+       {
+        "name": "Linear Algebra for Computational Sciences",
+        "description": "",
+		"children": [
+		{
+        "name": "Knowledge Management Systems",
+        "description": "",
+		}
+		]
+	   },
+      ]
+   }
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   ]
+   
+   
+}
+	  
+

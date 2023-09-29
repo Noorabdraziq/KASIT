@@ -1,0 +1,258 @@
+
+var json_data = 
+
+
+{
+ "name": "CS",
+ "children": [
+   {
+    "name": "Computer 99",
+    "description": "Computer 99",
+    "children": [
+     
+	
+	 
+       {
+        "name": "Object Oriented Programming - 1",
+        "description": "This course explains the object-oriented programming environment, building object-oriented blocks, input and output, iteration statements, decisions, functions, arrays and strings, data structures, abstraction and encapsulation, advanced variables, advanced functions and their programming, classes and entities, inheritance, and overloading. For functions and operands, multiple responses, exceptions, threads, files, various applications in the Java programming language, training on weekly jobs in the lab.",
+		
+		"children": [
+       {
+        "name": "Object Oriented Programming - 2",
+        "description": "The course will cover the following topics: Graphics: Coordinate systems and drawing methods, Graphical User Interface and event handling, Exception handing, Multithreading and Strings"
+	   },
+       {
+        "name": "Multimedia",
+        "description": "This course is mainly designed to introduce the theoretical concepts of digital media including images, audio, animation and video. The difference between analog and digital media is discussed. Different types of digital media are outlined and their digital storage process is explained in detail. The digital media encoding and decoding concepts are explained. In addition, different types of digital media compression techniques are introduced. The most popular file formats are outlined for each media type.  Finally, the Multimedia related hardware, software, and web-related issues are discussed where necessary.",
+		
+		
+		"children": [
+       {
+        "name": "Advanced Multimedia",
+        "description": "​This course aims at developing the students’ ability to understand digital media concepts, tools and applications. It will develop the students' skills of using multimedia authoring tools and techniques and will highlight multimedia applications. In addition, digital media processing and compression techniques will be introduced. Subjects such as, but not necessarily limited to, Digital Text, Graphics and Image Representations, Color in Image and Video, Digital Video, Digitised Audio, MIDI Audio, Loss and Lossless Compression Techniques, and Video and Audio Compression Techniques will be investigated in detail."
+	   }
+      ]
+	  
+	  
+       }
+      ]
+			
+		
+       },
+	    
+	    {
+      "name": "Computer Skills for Scientific Faculties",
+      "description": "C++ programming principles; Programming tools basics: variables and their naming; data types; repetition sentences; choices; decisions; matrices; functions; Strings, dealing with sequential files, C++ applications, training on weekly jobs in the lab.",
+      "children": [
+	  
+	  {
+	  
+	  "name": "Data Structure 1",
+      "description": "It includes object-oriented design, classes and entities, inheritance between classes, templates, types of data structures; data abstraction and encapsulation; beam(stack); queuing; Sticky List. Training for weekly jobs in the lab.",
+	  
+	  
+	  "children": [
+       {
+        "name": "Introduction to Database Systems",
+        "description": "This course explains the basics of database systems and includes the following topics: data storage, master file organization, processing languages, indexing and storage techniques, design, modeling and manipulation of relational data: organization, ER and EER models and SQL language. This course will enable students to create and manipulate databases and the use of ORACLE database management systems through the design and implementation of small group projects.",
+		"children": [
+       {
+        "name": "Modern Technology in Information Systems",
+        "description": "Modern Technology in Information Systems"
+	   },
+	   {
+        "name": "Systems Analysis and Design",
+        "description": "Introduction to systems development; Development life cycle; System Development feasibility; Development of fact finding methods; Context diagram; Data flow diagram; Decision tables and trees; Data dictionary; Installation; Training; Development Tools: Documentation, Maintenance, Conceptual design, DB design, Reverse engineering, Graphical user interface, Systems life cycle, System conversion, System charts and flow of control; Case Studies in Clinical Information Systems."
+	   },
+	   {
+        "name": "Introduction to Software Engineering",
+        "description": "This course provides a general introduction to software engineering. It introduces concepts such as software processes and agile methods, and essential software development activities, from initial specification through to system maintenance. The course also includes practice in lab to express the role of UML for visualizing, specifying, constructing, and documenting software system. Project management and professional software engineering practice will also be covered. Case studies provide practical examples for many of these concepts.",
+		"children": [
+       {
+        "name": "Advanced Topics in Software Engineering",
+        "description": "​The course aims to present the principals, techniques, and methods for software design, implementation and testing. It also covers advanced theoretical concepts in software engineering including: software reuse, component-based software engineering, distributed software engineering, service-oriented architecture, embedded software and aspect-oriented software engineering. The course involves hands-on experience in dealing with various issues in software development."
+	   },
+	   {
+        "name": "Information Systems Project Management",
+        "description": "​This course aims to introduce students to the concepts of Project Management for Information Systems. It provides students with the required skills to identify and select projects, planning, performing and controlling the project. It gives students an understanding of the different possibilities in developing the schedule, resource utilization, determining costs, managing risk and closing a project. The course Introduces students to Project Management responsibilities and skills needed. An information systems’ project management case study in the healthcare domain constitutes a major part of this course. The topics that are covered each week are demonstrated using the case study to show how the project management process activities are deployed in healthcare systems. Students are required to work through a real project and show how to break down the project’s tasks into WBS and perform scheduling, estimation, risk analysis, etc. for this system. Progress reports should be submitted in a weekly basis. Passing the project is required to pass the course."
+	   },
+
+	   ]
+		
+	   },
+	   {
+        "name": "Confidentiality and Security of Information",
+        "description": "This course provides an introduction to information security and privacy. The course covers Cryptography, Digital Signature, Key Management, Authentication, Authorization, Steganography, Privacy, Risk Analysis, and applies the information security methods and managements to the development of information security within healthcare systems."
+	   },
+	   {
+        "name": "Data Mining",
+        "description": "Bachelor Of Artificial Intelligence; Bachelor Of Data ScienceBachelor Of Artificial Intelligence"
+	   },
+	   {
+        "name": "Advanced Topics in Database Systems",
+        "description": "This course covers advanced aspects of database management systems including advanced normalization and denormalization, Database recovery, object-oriented and object-relational databases, concurrency control, transaction management, data integration (e.g., semistructured data and XML). Students will undertake a semester project that involves the design and implementation of a database system."
+	   },
+
+	   {
+        "name": "Distributed",
+        "description": "Distrebuted"
+	   }
+	   ]
+	   },
+       {
+        "name": "Operating Systems",
+        "description": "Define the role of operating systems; the history and development of operating systems; Typical operating system functions and architecture; definition of concepts; operations and their comparison with ramifications (threads), scheduling, execution, context switching; concurrent execution, interchange prevention problem and some solutions; The problem of deadlock, its causes, conditions, and ways to solve it; memory management; virtual memory management; Volume structures."
+		
+		},
+		{
+        "name": "Algorithmic Theory",
+        "description": "Groups; relationships and languages; definite and indefinite automatics; closure and pumping theory; regular languages and terminology; Free Script Grammar: Regular Languages and Free Script Languages; Stacked Automata, Lockdown, Verification, Rules (LL1); Turing Machine Combine Turing Machines and Machine Model, Examples, Introduction to P and NP Problems."
+		},
+		{
+        "name": "Computer Networks-1",
+        "description": "This course explains the main concepts and basic techniques in computer networks and covers many topics in networks, including: General introduction: network applications, network classification and its forms, network layers, carrier channel efficiency measures, messaging media, network communication protocols and their architecture, the data link layer: Segmentation, Error Detection and Correction, IEEE LANs, Network Layer: IP, IP Addressing, Network Segmentation, DHCP, ARP, ICMP, Messaging Layer: UDP, TCP, Reliable Data Transfer and Window Slider using TCP, contention and data flow control in TCP, application layer: DNS, NAT, HTTP, persistent and non-permanent connection in HTTP. Training for weekly jobs in the lab.",
+		"children": [
+       {
+        "name": "Network Programming",
+        "description": "Network programming basic concepts; Java I/O streams; Internet addressing; the Socket class; the DatagramSocket class; Communication primitives; protocol specification, design, and implementation; multithreaded client/server applications; Java network programming API will be used to implement some practical networking aspects."
+	   }
+	   ]
+		},
+		{
+        "name": "Data Structures 2",
+        "description": "Pointers. Classes. Virtual functions and abstract classes. Overloading. Recursion. Linked list: singly, doubly, circular. Stacks, Stack operations and Implementation of Stacks as linked-list. Queues, Queue operations and Implementation of Queues as linked-list. Trees, Binary Trees."
+		},
+		{
+        "name": "Computer Drawing",
+        "description": "Introduction to drawing systems, an overview of computer graphics applications, computer graphics raw outputs and their properties, geometric transformations, three-dimensional representation, the graphical user interface and its properties, an introduction to the C++ (OpenGL) graphics library software and its applications, in addition to an overview of Popular computer graphics programs through a course project covering 3D computer graphics.",
+		"children": [
+       {
+        "name": "Digital Image Processing",
+        "description": "This course will introduce the students to the fundamental techniques of the following: acquisition of the digital image processing (equipment, sampling, quantization, and color representation), enhancement of digital images in spatial and in frequency domains (smoothing sharpening, edge detection, thresholding, histogram equalization, morphological operations, etc.), conversion the digital image into Fourier and other transforms, , feature identification, image compression, application to models of human and machine vision. In addition, the student will be able to apply the image processing techniques to solve real-world problems in any domain.  Specifically, students are required to work through a case study in the healthcare domain and show how to deploy the image processing techniques to perform enhancement, segmentation, analysis, diagnosis, etc. into the medical images."
+	   },
+	   {
+        "name": "Human Interaction with Computer",
+        "description": "Introduction to Human Computer Interaction; design, implementation and evaluation of interactive computing system for human use; Ergonomics; Components of an interactive system; Human; Computer; Interaction Design; Interaction Design Activities; Data gathering; Prototyping; Evaluation paradigms and techniques; Agents and natural language processing The course gives students an understanding of interaction design process, the content of the course enables the students to deploy interaction design principles into health related application (healthcare and patient management), students are required to show the interaction design activities, prototyping, Evaluation paradigms and techniques, and Universal design principles in the project."
+	   },
+	   {
+        "name": "Geographic Information Systems",
+        "description": "The purpose of this course is to introduce the concept of Geographic Information Systems (GIS). This includes what can GIS do?, spatial data, GIS data structure, raster verses vector data, topology and spatial relationships, data acquisition, entry, and quality. In addition this course outlines geographic database and inventory operations, basic geographic data analysis, and geographic systems output.  The course will also include practical demonstrations on using the state-of-the art GIS software package ESRI’s ArcView."
+	   }
+	   ]
+		},
+		{
+        "name": "Artificial intelligence",
+        "description": "​Introduction to artificial intelligence (concepts, research areas and applications), Propositional logic, First order logic, Representing simple domains in First order logic,  Resolution refutation proofs;  Logic programming  (Prolog), Exhaustive search methods; Heuristic search methods; Production  systems; Architecture of expert systems.",
+		"children": [
+       {
+        "name": "Machine Learning",
+        "description": "​Introduction and learning bayesian learning, decision tree learning; learning sets of rules, genetic algorithms, analytical learning; reinforcement learning; applications. Weekly practice in the lab."
+	   }
+	   ]
+		},
+		{
+        "name": "Certified Software",
+        "description": "​This course helps students learn the essentials for Android application development, and provides students with the required skills for the design and implementation of different mobile applications. Topics include: building user interfaces, using internet resources, managing files and preferences, using maps and location-based services, working with audio, video and using the camera. This course is a lab-based course which includes in-class practical assignments and tasks."
+		},
+		{
+        "name": "Special Topics",
+        "description": "Special Topics"
+		}
+			
+      ]
+	 
+	  }
+	  
+      ]
+     },
+	 
+ 
+    ]
+   },
+   
+
+     {
+      "name": "Fundementals of Information Technology",
+        "description": "IT Components, Hardware: Memory and Processing Unit, Machine Cycle, Number Systems: Decimal, Binary, Octal and Sixteenth, Arithmetic Operations, Data Representation and Encoding, Computer Networks, Multimedia, E-commerce, Information Systems, Analysis and Design Steps, Solving Steps Problems: Algorithm, flowchart, pseudo-programs, training on weekly software functions in the lab.",
+      "children": [
+       {
+        "name": "Documention and Ethics",
+        "description": "This course consists of two parts. The first part introduces the student to the technical writing process and the requirements for developing a good writing style. This course explains the different types of technical writings and their general structure, such as: official reports, research proposals, research papers, feasibility reports, user guides, notes, and resumes. The second part explains the concepts of computer ethics, defines a framework for making ethical decisions, and analyzes some issues related to computer ethics that workers in this field may be exposed to. Topics covered include: philosophical topics, business, professional ethics, privacy, criminal behavior, property rights, reliability, as well as plagiarism and its detection methods."
+       },
+       {
+        "name": "Web Application Development 1",
+        "description": "This course introduces the tools and methods used to build web applications. Through this course, the student acquires an understanding of dealing with the web, and the student will be able to develop web applications using its tools on the client side (such as HTML and JavaScript), as well as its tools on the server side (such as ASP).",
+		"children": [
+       {
+        "name": "Web Application 2",
+        "description": "This course uses PHP and MySQL to provide students with a programming background by using applied skills in order to build professional-quality, database- driven Web sites. By integrating PHP and MySQL with the XHTML and CSS frameworks, the student will develop the skills to build interactive Web sites with authentication and security. Throughout the course, the student will be able to apply new concepts in both guided and free- form activities. The student will be able to expand the functionality of a comprehensive Web site project that then can be directly translated or easily modified into a real- world Web application. Tomcat, XAMPP, or WampServer development platform environment could be used to create the PHP web applications."
+       },
+       {
+        "name": "Computer Assisted Learning",
+        "description": "​Introduction  to computer use in teaching, teaching authoring tools ; Human Computer interaction; software and hardware requirements; task analysis and design; multimedia and task development ; internet in education; question answer design ; Student Computer interaction ; Static and dynamic interaction; Computerized examinations; Virtual teaching; Case study. Weakly practice in the lab."
+       }
+      ]
+       },
+	   {
+        "name": "Management Information Systems",
+        "description": "This course introduces students to the use of information technology (IT) and management information systems (MIS) within today’s fast-paced, dynamic, and global business environment."
+       }
+      ]
+     },
+   
+   
+   
+   
+   {
+    "name": "Natural Language Processing",
+    "description": "Origins of Natural Language Processing (NLP); Language structure representation; The role of knowledge; Knowledge representation; Parsing techniques; Finite-state techniques; Recursive and augmented transition networks; Language ambiguity; Well-Formed constructs; Features and the lexicon; Language semantics; Applications.",
+   },
+   
+   
+
+{
+    "name": "Principles of Statistics",
+    "description": "Describing statistical data by tables, graphs and numerical measures, Chebychev’s inequality and the empirical rule, counting methods, combinations, permutations, elements of probability and random variables, the binomial, the Poisson, and the normal distributions, sampling distributions, elements of testing hypotheses, statistical inference about one and two populations parameters.",
+	"children": [
+       {
+        "name": "Enterprise Resource Planning Systems",
+        "description": "​This course introduces students to the use of Enterprise Resource Planning (ERP) Systems- the Manufacturing Modules. ERP systems are the first generation of enterprise software is meant to integrate data and support all the major functions of the manufacturing organization."
+       }
+      ]
+   },
+   
+   
+   
+   
+	{
+    "name": "Discrete Mathmatics",
+    "description": "The course covers the mathematical components of computer science. Topics covered include: propositional logic, predicate logic, mathematical logic, methods of proof, mathematical induction, group theory, number theory, matrices, sequences and series, conjunctions, relations and their properties, basics of statement theory, and trees.",
+	"children": [
+       {
+        "name": "Theory of Computation",
+        "description": "​Sets, Relations, Closure and Languages, Finite Automata, deterministic and nondeterministic, Closure and pumping lemma, Regular languages and expressions, Context-Free Grammar, Regular languages and Context-Free languages, pushdown automata, closure, determinism and parsing, LL (1) Grammar, Turing machines   and   machine schemas, examples, Introduction to P and NP classes."
+       }
+      ]
+   },
+   
+
+
+	{
+    "name": "Calculus 1",
+    "description": "Functions: domain, operations on functions, graphs of functions; trigonometric functions; limits: meaning of a limit, computational techniques, limits at infinity, infinite limits ;continuity; limits and continuity of trigonometric functions; the derivative: techniques of differentiation, derivatives of trigonometric functions; the chain rule; implicit differentiation; differentials; Roll’s Theorem; the mean value theorem; the extended mean value theorem; L’Hopital’s rule; increasing and decreasing functions; concavity; maximum and minimum values of a function; graphs of functions including rational functions (asymptotes) and functions with vertical tangents (cusps); antiderivatives; the indefinite integral; the definite integral; the fundamental theorem of calculus ; the area under a curve; the area between two curves; transcendental functions: inverse functions, logarithmic and exponential functions; derivatives and integrals; limits (the indeterminate forms); hyperbolic  functions and their inverses; inverse trigonometric functions; some techniques of integration.",
+   },
+   
+
+
+
+
+
+
+ ]
+
+
+
+
+
+
+}
